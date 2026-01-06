@@ -1,7 +1,7 @@
 SQL 练习记录
 -- 
 #### 相关书籍：
-  《SQL 必知必会》（作者：Ben Forta，中文版）
+  《SQL 必知必会》（作者：Ben Forta，中文版） — https://github.com/Uonlra/SQL_exer/blob/main/books
 #### 相关网站：
   LeetCode（数据库题，中文版）— https://leetcode.cn/problemset/database/
   
